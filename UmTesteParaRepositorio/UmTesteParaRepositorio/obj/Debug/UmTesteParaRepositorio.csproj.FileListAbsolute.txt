@@ -1,1 +1,10 @@
 c:\users\luís\documents\visual studio 2012\Projects\UmTesteParaRepositorio\UmTesteParaRepositorio\bin\Debug\UmTesteParaRepositorio.exe.config
+C:\Users\Luís\Documents\GitHub\GitTesteSimples\UmTesteParaRepositorio\UmTesteParaRepositorio\bin\Debug\UmTesteParaRepositorio.exe.config
+C:\Users\Luís\Documents\GitHub\GitTesteSimples\UmTesteParaRepositorio\UmTesteParaRepositorio\bin\Debug\UmTesteParaRepositorio.exe
+C:\Users\Luís\Documents\GitHub\GitTesteSimples\UmTesteParaRepositorio\UmTesteParaRepositorio\bin\Debug\UmTesteParaRepositorio.pdb
+C:\Users\Luís\Documents\GitHub\GitTesteSimples\UmTesteParaRepositorio\UmTesteParaRepositorio\obj\Debug\UmTesteParaRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Luís\Documents\GitHub\GitTesteSimples\UmTesteParaRepositorio\UmTesteParaRepositorio\obj\Debug\UmTesteParaRepositorio.Form1.resources
+C:\Users\Luís\Documents\GitHub\GitTesteSimples\UmTesteParaRepositorio\UmTesteParaRepositorio\obj\Debug\UmTesteParaRepositorio.Properties.Resources.resources
+C:\Users\Luís\Documents\GitHub\GitTesteSimples\UmTesteParaRepositorio\UmTesteParaRepositorio\obj\Debug\UmTesteParaRepositorio.csproj.GenerateResource.Cache
+C:\Users\Luís\Documents\GitHub\GitTesteSimples\UmTesteParaRepositorio\UmTesteParaRepositorio\obj\Debug\UmTesteParaRepositorio.exe
+C:\Users\Luís\Documents\GitHub\GitTesteSimples\UmTesteParaRepositorio\UmTesteParaRepositorio\obj\Debug\UmTesteParaRepositorio.pdb
